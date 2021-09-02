@@ -17,3 +17,12 @@ earlyBirds: false,
 food: ['grapes', 'grabage',],
 masks: 1,
 }
+
+
+var: customer = {
+  human: true,
+  doesNotNeedService: false,
+  startingArrival: 0800,
+  mightNeed: 'change, help, a nice conversation', 
+  appropriateGreetings: ['hello', 'welcome', 'morning', 'how can i help you'],
+}
